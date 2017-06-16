@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="description" value="# ------------------------------------------------&#10;# Author   : Josh Daeseon Kim&#10;# Created  : &#10;# Describe : &#10;# ------------------------------------------------" description="Desciption by Josh" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

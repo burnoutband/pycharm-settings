@@ -5,7 +5,16 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="Macro.Description Code">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="NewElement" />
+  <action id="NewElementSamePlace" />
 </keymap>
