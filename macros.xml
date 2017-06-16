@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Description Code">
+      <action id="EditorPaste" />
+    </macro>
+  </component>
+</application>
