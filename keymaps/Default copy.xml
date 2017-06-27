@@ -5,8 +5,4 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
-  <action id="EditorResetFontSize">
-    <keyboard-shortcut first-keystroke="ctrl 0" />
-  </action>
-  <action id="GotoBookmark0" />
 </keymap>
